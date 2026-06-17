@@ -125,19 +125,7 @@ DIVIDE(
     SUM(Deliveries[BatsmanRuns]) * 100,
     COUNTROWS(Deliveries)
 )
-```
-
----
-
-## 📸 Dashboard Preview
-
-Add screenshots of:
-
-* Executive Dashboard
-* Team Analysis Dashboard
-* Batting Analysis Dashboard
-* Bowling Analysis Dashboard
-
+``
 ---
 
 ## 🚀 Business Impact
